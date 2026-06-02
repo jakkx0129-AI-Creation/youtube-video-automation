@@ -36,3 +36,6 @@ See `AGENTS.md` for detailed conventions and environment setup.
 
 - `src/` — formal pipeline scripts only
 - `scratch/` — one-off tests / deprecated scripts (not tracked in git)
+===========================================================================================================
+簡單的圖片、歌詞轉成可以上傳youtube硬字幕影片的程式。
+本來想做歌詞隨歌聲變色的版本，但目前不夠精確還不太能用，先丟上來以後再改。
