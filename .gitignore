@@ -1,0 +1,12 @@
+assets/*.wav
+assets/*.mp3
+assets/*.flac
+assets/*.jpg
+assets/*.json
+assets/*.ass
+assets/*.srt
+output/
+separated/
+scratch/
+__pycache__/
+*.pyc

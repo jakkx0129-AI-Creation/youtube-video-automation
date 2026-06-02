@@ -1,0 +1,9 @@
+fugashi
+unidic-lite
+faster-whisper
+demucs
+torch
+pillow
+librosa
+numpy
+soundfile
